@@ -1,0 +1,11 @@
+{
+  "modListVersion": "1",
+  "modList": [
+    {
+      "modid": "basic_dependencies",
+      "name": "Basic Dependencies",
+      "version": "${version}",
+      "mcversion": "${mc_version}"
+    }
+  ]
+}
